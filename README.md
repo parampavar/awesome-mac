@@ -28,7 +28,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ✦ My macOS application:
 
 <div style="display: inline_block">
-  <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/deb91549-0347-458c-9768-3b0fcb18aebc"></a>
+  <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
+  <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
   <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
   <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="Copybook Generator for macOS/iOS"><img align="center" alt="Copybook Generator" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
   <a target="_blank" href="https://wangchujiang.com/devtutor/" title="DevTutor for macOS/iOS"><img align="center" alt="DevTutor for SwiftUI" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
@@ -37,7 +38,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
   <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
   <a target="_blank" href="https://wangchujiang.com/create-custom-symbols/" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
-  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/6d38923c-b97d-4687-9601-9865bd0eea1a"></a>
+  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
   <a target="_blank" href="https://wangchujiang.com/ResumeRevise/" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
   <a target="_blank" href="https://wangchujiang.com/palette-genius/" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
   <a target="_blank" href="https://wangchujiang.com/symbol-scribe/" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
@@ -854,7 +855,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
   * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware][Freeware Icon]
-* [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
+* [Firefox](https://www.firefox.com/) - A free and open-source web browser developed by Mozilla. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
@@ -867,6 +868,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Vivaldi](https://vivaldi.com) - The browser that puts you in control. ![Freeware][Freeware Icon]
 * [Yandex](https://browser.yandex.com/) - The quick and secure browser from Yandex for computers. ![Freeware][Freeware Icon]
+* [Zen](https://zen-browser.app/) - A beautifully designed, privacy-focused, and feature-rich browser ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
 ## Translation Tools
 
@@ -932,7 +934,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
-* [V2rayU](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yanue/V2rayU)
 * [Windscribe](https://windscribe.com) - Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time.
 
 ## Utilities
