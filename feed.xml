@@ -5,9 +5,51 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:56:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MakLock</title>
+      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
+      <guid isPermaLink="false">5503dbec1469b33f191cde1fdfdec0c812a16cf4:MakLock</guid>
+      <pubDate>Sat, 18 Apr 2026 07:56:26 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: MakLock
+Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.
+Open Source: https://github.com/dutkiewiczmaciej/MakLock
+Commit: Add MakLock (#1995)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: MakLock<br/>Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
+    </item>
+    <item>
+      <title>Clippy</title>
+      <link>https://github.com/yarasaa/Clippy</link>
+      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
+      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Clippy
+Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.
+Open Source: https://github.com/yarasaa/Clippy
+Commit: Add Clippy (#1998)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clippy<br/>Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
+    </item>
+    <item>
+      <title>WaifuX</title>
+      <link>https://jipika.github.io/WaifuX</link>
+      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
+      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: WaifuX
+Description: Open-source ACG app for wallpapers, animated backgrounds, and anime videos.
+Website: https://jipika.github.io/WaifuX
+Commit: Add WaifuX fix #1992
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: WaifuX<br/>Description: Open-source ACG app for wallpapers, animated backgrounds, and anime videos.<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
+    </item>
     <item>
       <title>Desktop Control</title>
       <link>https://github.com/yaroshevych/desktopctl</link>
@@ -665,48 +707,6 @@ Open Source: https://github.com/kamjin3086/AppUninstaller
 Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Uninstaller<br/>Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage Monitor</title>
-      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
-      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
-      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claude Usage Monitor
-Description: Track Claude usage with a live counter.
-Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
-Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage Monitor<br/>Description: Track Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
-    </item>
-    <item>
-      <title>Zipic</title>
-      <link>https://zipic.app/</link>
-      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Zipic
-Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
-Website: https://zipic.app/
-Commit: Add Zipic to Design and Product - Other Tools (#1910)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Zipic<br/>Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
-    </item>
-    <item>
-      <title>Orchard</title>
-      <link>https://orchard.5km.tech/</link>
-      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Orchard
-Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
-Website: https://orchard.5km.tech/
-Commit: Add Orchard to AI Client (#1911)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
   </channel>
 </rss>
