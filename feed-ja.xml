@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Voxt</title>
+      <link>https://github.com/hehehai/voxt</link>
+      <guid isPermaLink="false">cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c:Voxt</guid>
+      <pubDate>Thu, 07 May 2026 02:48:09 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: Voxt
+Description: 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。
+Open Source: https://github.com/hehehai/voxt
+Commit: Add Voxt
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Voxt<br/>Description: 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。<br/>Open Source: https://github.com/hehehai/voxt<br/>Commit: Add Voxt<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenQuack</title>
+      <link>https://github.com/larryxiao/openquack</link>
+      <guid isPermaLink="false">a2573ab1b8fb087f1a9e849916de7cc972eed79b:OpenQuack</guid>
+      <pubDate>Thu, 07 May 2026 02:23:58 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: OpenQuack
+Description: プライバシー重視の音声ディクテーションツールで、ホットキーで話すとWhisperKitがローカルで文字起こしし、カーソル位置に入力します。
+Open Source: https://github.com/larryxiao/openquack
+Commit: Update OpenQuack (#2040)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: OpenQuack<br/>Description: プライバシー重視の音声ディクテーションツールで、ホットキーで話すとWhisperKitがローカルで文字起こしし、カーソル位置に入力します。<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Update OpenQuack (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b]]></content:encoded>
+    </item>
+    <item>
+      <title>CodexIsland</title>
+      <link>https://github.com/ericjypark/codex-island</link>
+      <guid isPermaLink="false">b7d59bed65320b104d02429c4d4d8233a8dd34d8:CodexIsland</guid>
+      <pubDate>Wed, 06 May 2026 16:58:37 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: CodexIsland
+Description: MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。
+Open Source: https://github.com/ericjypark/codex-island
+Commit: Add CodexIsland to Menu Bar Tools (#2036)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: CodexIsland<br/>Description: MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
+    </item>
+    <item>
+      <title>MacDown</title>
+      <link>https://macdown.uranusjr.com/</link>
+      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
+      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MacDown
+Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。
+Website: https://macdown.uranusjr.com/
+Commit: Add MacDown to Markdown Tools (#2031)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
+    </item>
+    <item>
+      <title>Notchly</title>
+      <link>https://notchly.xyz</link>
+      <guid isPermaLink="false">0f102463c156fc8659468febe937c111066c0065:Notchly</guid>
+      <pubDate>Mon, 04 May 2026 00:17:19 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Notchly
+Description: ライブアクティビティ、音楽、バッテリー、カスタムHUDのために、MacBookのノッチをインタラクティブなスペースに変える軽量なネイティブmacOSアプリです。
+Website: https://notchly.xyz
+Commit: Add notchly (#2025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Notchly<br/>Description: ライブアクティビティ、音楽、バッテリー、カスタムHUDのために、MacBookのノッチをインタラクティブなスペースに変える軽量なネイティブmacOSアプリです。<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
+    </item>
+    <item>
+      <title>Agenttrace</title>
+      <link>https://luoyuctl.github.io/agenttrace/</link>
+      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
+      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Agenttrace
+Description: AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。
+Website: https://luoyuctl.github.io/agenttrace/
+Commit: Add Agenttrace (#2026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Agenttrace<br/>Description: AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
+    </item>
     <item>
       <title>MarkViewer</title>
       <link>https://markviewer.com</link>
@@ -623,90 +707,6 @@ Open Source: https://github.com/fikrikarim/repose
 Commit: Add Repose to the ja/ko/zh list. (#1935)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Repose<br/>Description: 休憩時間に画面を暗くし、通話中は自動で一時停止するメニューバー休憩タイマー。<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to the ja/ko/zh list. (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93]]></content:encoded>
-    </item>
-    <item>
-      <title>Flock</title>
-      <link>https://github.com/Divagation/flock</link>
-      <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
-      <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Flock
-Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。
-Open Source: https://github.com/Divagation/flock
-Commit: Add Flock to the ja/ko/zh list. #1936
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Flock<br/>Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
-    </item>
-    <item>
-      <title>TouchBridge</title>
-      <link>https://github.com/HMAKT99/UnTouchID</link>
-      <guid isPermaLink="false">dfbe3aa4b330a229e80509250ef88b70e9b5612e:TouchBridge</guid>
-      <pubDate>Fri, 27 Mar 2026 21:15:53 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: TouchBridge
-Description: スマホの指紋で認証できるオープンソースツール。
-Open Source: https://github.com/HMAKT99/UnTouchID
-Commit: Add TouchBridge to the ja/ko/zh lish. #1930
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: TouchBridge<br/>Description: スマホの指紋で認証できるオープンソースツール。<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge to the ja/ko/zh lish. #1930<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e]]></content:encoded>
-    </item>
-    <item>
-      <title>VSCodium</title>
-      <link>https://vscodium.com/</link>
-      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
-      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: VSCodium
-Description: コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。
-Website: https://vscodium.com/
-Commit: Add VSCodium to the ja/ko/zh list. #1926
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: VSCodium<br/>Description: コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDictation</title>
-      <link>https://github.com/kdcokenny/OpenDictation</link>
-      <guid isPermaLink="false">fc74bd6c3f22b939b3f70b345b40001648a61e64:OpenDictation</guid>
-      <pubDate>Fri, 27 Mar 2026 04:36:32 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: OpenDictation
-Description: ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。
-Open Source: https://github.com/kdcokenny/OpenDictation
-Commit: Add OpenDictation to the ja/ko/zh list (#1927).
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: OpenDictation<br/>Description: ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to the ja/ko/zh list (#1927).<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64]]></content:encoded>
-    </item>
-    <item>
-      <title>Nudge</title>
-      <link>https://nudge.run</link>
-      <guid isPermaLink="false">5954cd8e0fc69805edc52d757b247f49e2da3229:Nudge</guid>
-      <pubDate>Fri, 27 Mar 2026 03:55:58 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Nudge
-Description: キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)
-Website: https://nudge.run
-Commit: Add Nudge to the ja/zh/ko list. #1928
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Nudge<br/>Description: キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)<br/>Website: https://nudge.run<br/>Commit: Add Nudge to the ja/zh/ko list. #1928<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229]]></content:encoded>
-    </item>
-    <item>
-      <title>App Uninstaller</title>
-      <link>https://github.com/kamjin3086/AppUninstaller</link>
-      <guid isPermaLink="false">347dfed9d507966748fb5eeed5b2d9f1de02f2fe:App Uninstaller</guid>
-      <pubDate>Mon, 23 Mar 2026 14:06:15 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: App Uninstaller
-Description: ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。
-Open Source: https://github.com/kamjin3086/AppUninstaller
-Commit: Add App Uninstaller to the ja/ko list. #1913
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: App Uninstaller<br/>Description: ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to the ja/ko list. #1913<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe]]></content:encoded>
     </item>
   </channel>
 </rss>
