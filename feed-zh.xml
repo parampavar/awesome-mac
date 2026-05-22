@@ -5,9 +5,121 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papr</title>
+      <link>https://github.com/l0ng-ai/papr</link>
+      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
+      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
+      <category>阅读与写作工具 / RSS</category>
+      <description>Category: 阅读与写作工具 / RSS
+App: Papr
+Description: 排版可调、键盘驱动的 RSS 阅读器，高亮可导出到 Readwise、Notion 和 Obsidian。
+Open Source: https://github.com/l0ng-ai/papr
+Commit: Add Papr to RSS (#2083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / RSS<br/>App: Papr<br/>Description: 排版可调、键盘驱动的 RSS 阅读器，高亮可导出到 Readwise、Notion 和 Obsidian。<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
+    </item>
+    <item>
+      <title>Muxy</title>
+      <link>https://github.com/muxy-app/muxy</link>
+      <guid isPermaLink="false">c07bf2d710be55b98e49a83d560a88cd200a995a:Muxy</guid>
+      <pubDate>Tue, 19 May 2026 22:24:43 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Muxy
+Description: AI 原生的终端，具有项目管理、分割窗格、Git 集成、AI 用量追踪和 200+ 主题。
+Open Source: https://github.com/muxy-app/muxy
+Commit: Add Muxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Muxy<br/>Description: AI 原生的终端，具有项目管理、分割窗格、Git 集成、AI 用量追踪和 200+ 主题。<br/>Open Source: https://github.com/muxy-app/muxy<br/>Commit: Add Muxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a]]></content:encoded>
+    </item>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Dimsum
+Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Dimsum<br/>Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Snapback
+Description: 通过一次按键操作保存和恢复整个窗口布局。
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Snapback<br/>Description: 通过一次按键操作保存和恢复整个窗口布局。<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
+    <item>
+      <title>SSH Keys Manager</title>
+      <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
+      <guid isPermaLink="false">3a1d903bf14752597429f32fd93ccee9face0f7b:SSH Keys Manager</guid>
+      <pubDate>Sun, 10 May 2026 14:06:25 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: SSH Keys Manager
+Description: 用于管理本地 SSH 密钥和 Git 身份的原生 macOS 应用。
+Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
+Commit: Add SSH Keys Manager to developer utilities (#2049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: SSH Keys Manager<br/>Description: 用于管理本地 SSH 密钥和 Git 身份的原生 macOS 应用。<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
+    </item>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: muxbar
+Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: muxbar<br/>Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
+    <item>
+      <title>Actions</title>
+      <link>https://sindresorhus.com/actions</link>
+      <guid isPermaLink="false">865a87a62dfe687e3d1bbe96632a32410483d54b:Actions</guid>
+      <pubDate>Sat, 09 May 2026 20:54:48 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Actions
+Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]
+Website: https://sindresorhus.com/actions
+Commit: Changes in &quot;Actions&quot; (#2046)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Actions<br/>Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]<br/>Website: https://sindresorhus.com/actions<br/>Commit: Changes in &quot;Actions&quot; (#2046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Actions</title>
+      <link>https://sindresorhus.com/ai-actions</link>
+      <guid isPermaLink="false">865a87a62dfe687e3d1bbe96632a32410483d54b:AI Actions</guid>
+      <pubDate>Sat, 09 May 2026 20:54:48 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: AI Actions
+Description: 快捷指令应用的AI操作。![Freeware][Freeware Icon]
+Website: https://sindresorhus.com/ai-actions
+Commit: Changes in &quot;Actions&quot; (#2046)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: AI Actions<br/>Description: 快捷指令应用的AI操作。![Freeware][Freeware Icon]<br/>Website: https://sindresorhus.com/ai-actions<br/>Commit: Changes in &quot;Actions&quot; (#2046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -595,118 +707,6 @@ Website: https://okaapps.com/product/1441507725
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Oka Unarchiver<br/>Description: 支持 RAR、批量解压和加密压缩包的归档工具。<br/>Website: https://okaapps.com/product/1441507725<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClick</title>
-      <link>https://saneclick.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SaneClick</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: SaneClick
-Description: 为 Finder 右键菜单增加文件处理、转换和开发者操作。
-Website: https://saneclick.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: SaneClick<br/>Description: 为 Finder 右键菜单增加文件处理、转换和开发者操作。<br/>Website: https://saneclick.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>RoyalTSX</title>
-      <link>https://www.royalapps.com/ts/mac/features</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:RoyalTSX</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>远程协助</category>
-      <description>Category: 远程协助
-App: RoyalTSX
-Description: 管理多种协议远程连接的客户端。
-Website: https://www.royalapps.com/ts/mac/features
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 远程协助<br/>App: RoyalTSX<br/>Description: 管理多种协议远程连接的客户端。<br/>Website: https://www.royalapps.com/ts/mac/features<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slant</title>
-      <link>https://www.slant.co</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slant</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>Mac软件下载网站 / 正版/介绍</category>
-      <description>Category: Mac软件下载网站 / 正版/介绍
-App: Slant
-Description: 用于比较软件并查看社区推荐的平台。
-Website: https://www.slant.co
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: Mac软件下载网站 / 正版/介绍<br/>App: Slant<br/>Description: 用于比较软件并查看社区推荐的平台。<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Mullvad VPN</title>
-      <link>https://mullvad.net</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Mullvad VPN</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Mullvad VPN
-Description: 注重隐私、支持匿名账号的 VPN 服务。
-Website: https://mullvad.net
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Mullvad VPN<br/>Description: 注重隐私、支持匿名账号的 VPN 服务。<br/>Website: https://mullvad.net<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Windscribe</title>
-      <link>https://windscribe.com</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Windscribe</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Windscribe
-Description: 提供广告拦截和节点切换的 VPN 与代理服务。
-Website: https://windscribe.com
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Windscribe<br/>Description: 提供广告拦截和节点切换的 VPN 与代理服务。<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>DNS Easy Switcher</title>
-      <link>https://github.com/glinford/dns-easy-switcher</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DNS Easy Switcher</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: DNS Easy Switcher
-Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。
-Open Source: https://github.com/glinford/dns-easy-switcher
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: DNS Easy Switcher<br/>Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipTools</title>
-      <link>https://macmost.com/cliptools</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:ClipTools</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: ClipTools
-Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。
-Website: https://macmost.com/cliptools
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipTools<br/>Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClip</title>
-      <link>https://saneclip.com</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneClip</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: SaneClip
-Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。
-Website: https://saneclip.com
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: SaneClip<br/>Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

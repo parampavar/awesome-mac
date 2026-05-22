@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papr</title>
+      <link>https://github.com/l0ng-ai/papr</link>
+      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
+      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / RSS</category>
+      <description>Category: 읽기 및 쓰기 도구 / RSS
+App: Papr
+Description: 타이포그래피를 조절할 수 있고 키보드 중심으로 동작하는 RSS 리더. 하이라이트를 Readwise, Notion, Obsidian으로 내보낼 수 있습니다.
+Open Source: https://github.com/l0ng-ai/papr
+Commit: Add Papr to RSS (#2083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / RSS<br/>App: Papr<br/>Description: 타이포그래피를 조절할 수 있고 키보드 중심으로 동작하는 RSS 리더. 하이라이트를 Readwise, Notion, Obsidian으로 내보낼 수 있습니다.<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
+    </item>
+    <item>
+      <title>Muxy</title>
+      <link>https://github.com/muxy-app/muxy</link>
+      <guid isPermaLink="false">c07bf2d710be55b98e49a83d560a88cd200a995a:Muxy</guid>
+      <pubDate>Tue, 19 May 2026 22:24:43 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Muxy
+Description: 프로젝트 관리, 분할 창, Git 통합, AI 사용량 추적 및 200개 이상의 테마를 갖춘 AI 네이티브 터미널.
+Open Source: https://github.com/muxy-app/muxy
+Commit: Add Muxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Muxy<br/>Description: 프로젝트 관리, 분할 창, Git 통합, AI 사용량 추적 및 200개 이상의 테마를 갖춘 AI 네이티브 터미널.<br/>Open Source: https://github.com/muxy-app/muxy<br/>Commit: Add Muxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a]]></content:encoded>
+    </item>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Dimsum
+Description: 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티.
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Dimsum<br/>Description: 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티.<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Snapback
+Description: 키 한 번으로 전체 창 레이아웃을 저장하고 복원.
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Snapback<br/>Description: 키 한 번으로 전체 창 레이아웃을 저장하고 복원.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
+    <item>
+      <title>SSH Keys Manager</title>
+      <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
+      <guid isPermaLink="false">3a1d903bf14752597429f32fd93ccee9face0f7b:SSH Keys Manager</guid>
+      <pubDate>Sun, 10 May 2026 14:06:25 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: SSH Keys Manager
+Description: 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다.
+Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
+Commit: Add SSH Keys Manager to developer utilities (#2049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: SSH Keys Manager<br/>Description: 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다.<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
+    </item>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: muxbar
+Description: 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다.
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: muxbar<br/>Description: 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다.<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -623,90 +707,6 @@ Website: https://contexts.co/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: contexts<br/>Description: 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.<br/>Website: https://contexts.co/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>MakeItHome</title>
-      <link>https://github.com/Geckos-Ink/MakeItHome</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MakeItHome</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: MakeItHome
-Description: 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구.
-Open Source: https://github.com/Geckos-Ink/MakeItHome
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: MakeItHome<br/>Description: 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구.<br/>Open Source: https://github.com/Geckos-Ink/MakeItHome<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Moom</title>
-      <link>http://manytricks.com/moom/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Moom</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Moom
-Description: 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
-Website: http://manytricks.com/moom/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Moom<br/>Description: 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.<br/>Website: http://manytricks.com/moom/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slate</title>
-      <link>https://github.com/jigish/slate</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slate</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Slate
-Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.
-Open Source: https://github.com/jigish/slate
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Slate<br/>Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.<br/>Open Source: https://github.com/jigish/slate<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Swift Shift</title>
-      <link>https://swiftshift.app</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Swift Shift</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Swift Shift
-Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.
-Website: https://swiftshift.app
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Swift Shift<br/>Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.<br/>Website: https://swiftshift.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Tiles</title>
-      <link>https://freemacsoft.net/tiles/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Tiles</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Tiles
-Description: 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구.
-Website: https://freemacsoft.net/tiles/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Tiles<br/>Description: 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구.<br/>Website: https://freemacsoft.net/tiles/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Total Spaces</title>
-      <link>http://totalspaces.binaryage.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Total Spaces</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Total Spaces
-Description: 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
-Website: http://totalspaces.binaryage.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Total Spaces<br/>Description: 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.<br/>Website: http://totalspaces.binaryage.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papr</title>
+      <link>https://github.com/l0ng-ai/papr</link>
+      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
+      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
+      <category>Reading and Writing Tools / RSS</category>
+      <description>Category: Reading and Writing Tools / RSS
+App: Papr
+Description: RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian.
+Open Source: https://github.com/l0ng-ai/papr
+Commit: Add Papr to RSS (#2083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / RSS<br/>App: Papr<br/>Description: RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian.<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
+    </item>
+    <item>
+      <title>Muxy</title>
+      <link>https://github.com/muxy-app/muxy</link>
+      <guid isPermaLink="false">c07bf2d710be55b98e49a83d560a88cd200a995a:Muxy</guid>
+      <pubDate>Tue, 19 May 2026 22:24:43 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: Muxy
+Description: AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
+Open Source: https://github.com/muxy-app/muxy
+Commit: Add Muxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Muxy<br/>Description: AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.<br/>Open Source: https://github.com/muxy-app/muxy<br/>Commit: Add Muxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a]]></content:encoded>
+    </item>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Dimsum
+Description: Minimalist menu bar app that dims inactive windows to highlight the focused one.
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Dimsum<br/>Description: Minimalist menu bar app that dims inactive windows to highlight the focused one.<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Snapback
+Description: Save and restore entire window layouts with one keystroke.
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Snapback<br/>Description: Save and restore entire window layouts with one keystroke.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
+    <item>
+      <title>SSH Keys Manager</title>
+      <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
+      <guid isPermaLink="false">3a1d903bf14752597429f32fd93ccee9face0f7b:SSH Keys Manager</guid>
+      <pubDate>Sun, 10 May 2026 14:06:25 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: SSH Keys Manager
+Description: Native macOS app for managing local SSH keys and Git identities.
+Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
+Commit: Add SSH Keys Manager to developer utilities (#2049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: SSH Keys Manager<br/>Description: Native macOS app for managing local SSH keys and Git identities.<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
+    </item>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: muxbar
+Description: Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: muxbar<br/>Description: Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -623,90 +707,6 @@ Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
 Commit: Add Atomic Chat
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
-    </item>
-    <item>
-      <title>Dimly</title>
-      <link>https://feuerbacher.me/projects/dimly</link>
-      <guid isPermaLink="false">1f961ea0dc7c4634ff867de6242f86be0527e944:Dimly</guid>
-      <pubDate>Mon, 30 Mar 2026 08:04:19 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Dimly
-Description: Control brightness across mixed monitor setups from one menu bar app.
-Website: https://feuerbacher.me/projects/dimly
-Commit: Add Dimly - mixed monitor control to app list (#1938)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Dimly<br/>Description: Control brightness across mixed monitor setups from one menu bar app.<br/>Website: https://feuerbacher.me/projects/dimly<br/>Commit: Add Dimly - mixed monitor control to app list (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944]]></content:encoded>
-    </item>
-    <item>
-      <title>ClawdHome</title>
-      <link>https://clawdhome.app/</link>
-      <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
-      <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: ClawdHome
-Description: Manage multiple isolated OpenClaw gateway instances from one control panel.
-Website: https://clawdhome.app/
-Commit: Add ClawdHome
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
-    </item>
-    <item>
-      <title>DashVPN</title>
-      <link>https://getdashvpn.com/</link>
-      <guid isPermaLink="false">5f9b05e4fbb3f75f634bf95a0149ef20ce88d392:DashVPN</guid>
-      <pubDate>Mon, 30 Mar 2026 06:34:00 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: DashVPN
-Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.
-Website: https://getdashvpn.com/
-Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
-    </item>
-    <item>
-      <title>ClashBar</title>
-      <link>https://clashbar.vercel.app/</link>
-      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
-      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: ClashBar
-Description: mihomo-powered menu bar proxy client.
-Website: https://clashbar.vercel.app/
-Commit: docs: add ClashBar to localized readmes
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: ClashBar<br/>Description: mihomo-powered menu bar proxy client.<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
-    </item>
-    <item>
-      <title>Repose</title>
-      <link>https://github.com/fikrikarim/repose</link>
-      <guid isPermaLink="false">3571b91bcc6398fd79a5b680b1be125dbb417909:Repose</guid>
-      <pubDate>Mon, 30 Mar 2026 02:13:54 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Repose
-Description: Menu bar break timer that dims your screen and pauses during calls.
-Open Source: https://github.com/fikrikarim/repose
-Commit: Add Repose to Productivity (#1935)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Repose<br/>Description: Menu bar break timer that dims your screen and pauses during calls.<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to Productivity (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909]]></content:encoded>
-    </item>
-    <item>
-      <title>Flock</title>
-      <link>https://github.com/Divagation/flock</link>
-      <guid isPermaLink="false">a4ad4b90fe05d473d745ff558a165e0b6dac00f9:Flock</guid>
-      <pubDate>Mon, 30 Mar 2026 01:52:01 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Flock
-Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
-Open Source: https://github.com/Divagation/flock
-Commit: Add Flock to Terminal Apps (#1936)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
   </channel>
 </rss>
