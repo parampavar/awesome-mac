@@ -5,9 +5,65 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 May 2026 00:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:10:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac Clean</title>
+      <link>https://github.com/iliyami/MacClean</link>
+      <guid isPermaLink="false">a0f814429a6335d4c8ab62623b78570ee1ead160:Mac Clean</guid>
+      <pubDate>Sat, 30 May 2026 10:10:40 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Mac Clean
+Description: Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, 16 junk categories, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. No telemetry, no subscription.
+Open Source: https://github.com/iliyami/MacClean
+Commit: Add Mac Clean (open-source CleanMyMac alternative) (#2110)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0f814429a6335d4c8ab62623b78570ee1ead160</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Mac Clean<br/>Description: Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, 16 junk categories, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. No telemetry, no subscription.<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean (open-source CleanMyMac alternative) (#2110)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0f814429a6335d4c8ab62623b78570ee1ead160]]></content:encoded>
+    </item>
+    <item>
+      <title>clawpypaste</title>
+      <link>https://github.com/krisbradley/clawpypaste</link>
+      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
+      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: clawpypaste
+Description: Menu bar block picker and session browser for Claude Code.
+Open Source: https://github.com/krisbradley/clawpypaste
+Commit: Add clawpypaste to AI Tools (#2112)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: clawpypaste<br/>Description: Menu bar block picker and session browser for Claude Code.<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
+    </item>
+    <item>
+      <title>Parakey</title>
+      <link>https://github.com/rcourtman/parakey</link>
+      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
+      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Parakey
+Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).
+Open Source: https://github.com/rcourtman/parakey
+Commit: Add Parakey under Voice-to-Text (#2050)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Parakey<br/>Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
+    </item>
+    <item>
+      <title>PureSnitch</title>
+      <link>https://github.com/momenbasel/puresnitch</link>
+      <guid isPermaLink="false">2898bf5da437286451c5985c4feb8aec8fbad762:PureSnitch</guid>
+      <pubDate>Mon, 25 May 2026 00:30:25 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: PureSnitch
+Description: Free, open-source application firewall for macOS with Little Snitch-style world map, rules manager, DNS over HTTPS, and pf-based blocking. No telemetry.
+Open Source: https://github.com/momenbasel/puresnitch
+Commit: Add PureSnitch (#2089)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2898bf5da437286451c5985c4feb8aec8fbad762</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: PureSnitch<br/>Description: Free, open-source application firewall for macOS with Little Snitch-style world map, rules manager, DNS over HTTPS, and pf-based blocking. No telemetry.<br/>Open Source: https://github.com/momenbasel/puresnitch<br/>Commit: Add PureSnitch (#2089)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2898bf5da437286451c5985c4feb8aec8fbad762]]></content:encoded>
+    </item>
     <item>
       <title>Live Translator</title>
       <link>https://github.com/umutcetinkaya/live-translator</link>
@@ -651,62 +707,6 @@ Open Source: https://github.com/siddharthvaddem/openscreen
 Commit: Add OpenScreen
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
       <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: OpenScreen<br/>Description: Open-source tool for creating polished screen demos and walkthrough videos.<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
-    </item>
-    <item>
-      <title>Mullvad Browser</title>
-      <link>https://mullvad.net/en/download/browser/</link>
-      <guid isPermaLink="false">ea3b60bc27c27ff89c0edc04144ed759004c7521:Mullvad Browser</guid>
-      <pubDate>Wed, 01 Apr 2026 04:36:38 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Mullvad Browser
-Description: Privacy browser focused on anti-fingerprinting protection.
-Website: https://mullvad.net/en/download/browser/
-Commit: Shorten app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Mullvad Browser<br/>Description: Privacy browser focused on anti-fingerprinting protection.<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
-    </item>
-    <item>
-      <title>EnviousWispr</title>
-      <link>https://enviouswispr.com</link>
-      <guid isPermaLink="false">2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775:EnviousWispr</guid>
-      <pubDate>Wed, 01 Apr 2026 02:54:04 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: EnviousWispr
-Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.
-Website: https://enviouswispr.com
-Commit: Add EnviousWispr to Voice-to-Text section (#1948)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: EnviousWispr<br/>Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.<br/>Website: https://enviouswispr.com<br/>Commit: Add EnviousWispr to Voice-to-Text section (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775]]></content:encoded>
-    </item>
-    <item>
-      <title>Claudoscope</title>
-      <link>https://github.com/cordwainersmith/claudoscope</link>
-      <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
-      <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claudoscope
-Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.
-Open Source: https://github.com/cordwainersmith/claudoscope
-Commit: Add Claudoscope to Menu Bar Tools (#1946)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
-    </item>
-    <item>
-      <title>StreamWindow</title>
-      <link>https://macdev.cn/</link>
-      <guid isPermaLink="false">a2b60a234eb7de0cebc5905b5e742d13e59a3ee5:StreamWindow</guid>
-      <pubDate>Tue, 31 Mar 2026 00:13:29 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: StreamWindow
-Description: 3D window manager with intuitive views and fluid transitions.
-Website: https://macdev.cn/
-Commit: Add StreamWindow - 3D window management tool for macOS (#1944)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc5905b5e742d13e59a3ee5</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: StreamWindow<br/>Description: 3D window manager with intuitive views and fluid transitions.<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow - 3D window management tool for macOS (#1944)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc5905b5e742d13e59a3ee5]]></content:encoded>
     </item>
   </channel>
 </rss>
