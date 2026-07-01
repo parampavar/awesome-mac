@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vesta</title>
+      <link>https://github.com/vestaterm/Vesta</link>
+      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
+      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Vesta
+Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。
+Open Source: https://github.com/vestaterm/Vesta
+Commit: Add Vesta (#2243)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Vesta<br/>Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
+    </item>
+    <item>
+      <title>Edmund</title>
+      <link>https://github.com/I7T5/Edmund</link>
+      <guid isPermaLink="false">3eedfd7588d7c53bde40217c210c412ad98fa218:Edmund</guid>
+      <pubDate>Tue, 30 Jun 2026 04:17:46 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: Edmund
+Description: 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。
+Open Source: https://github.com/I7T5/Edmund
+Commit: Add Edmund to the ja/ko/zh list. #2238
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Edmund<br/>Description: 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund to the ja/ko/zh list. #2238<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218]]></content:encoded>
+    </item>
+    <item>
+      <title>Orca</title>
+      <link>https://onorca.dev</link>
+      <guid isPermaLink="false">65dcb46146c4a7fea28b2117d574d8d34e5cbc46:Orca</guid>
+      <pubDate>Mon, 29 Jun 2026 02:36:44 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Orca
+Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。
+Website: https://onorca.dev
+Commit: Add Orca to the ja/ko/zh list. #2235
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Orca<br/>Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。<br/>Website: https://onorca.dev<br/>Commit: Add Orca to the ja/ko/zh list. #2235<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46]]></content:encoded>
+    </item>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: VoxFlow
+Description: 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxFlow<br/>Description: 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
+    <item>
+      <title>Pesty</title>
+      <link>https://github.com/momenbasel/pesty</link>
+      <guid isPermaLink="false">c45bbebc4b9f85db07a56cce3403ce58b4812476:Pesty</guid>
+      <pubDate>Fri, 26 Jun 2026 02:23:11 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Pesty
+Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。
+Open Source: https://github.com/momenbasel/pesty
+Commit: Add Pesty to the ja/ko/zh list. (#2229)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Pesty<br/>Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to the ja/ko/zh list. (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476]]></content:encoded>
+    </item>
     <item>
       <title>Claude Usage</title>
       <link>https://github.com/Bread-bang/claude-usage</link>
@@ -637,76 +707,6 @@ Open Source: https://github.com/dutkiewiczmaciej/MakLock
 Commit: Add MakLock (#1995)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: MakLock<br/>Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippy</title>
-      <link>https://github.com/yarasaa/Clippy</link>
-      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
-      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Clippy
-Description: 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。
-Open Source: https://github.com/yarasaa/Clippy
-Commit: Add Clippy (#1998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Clippy<br/>Description: 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
-    </item>
-    <item>
-      <title>WaifuX</title>
-      <link>https://jipika.github.io/WaifuX</link>
-      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
-      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: WaifuX
-Description: 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。
-Website: https://jipika.github.io/WaifuX
-Commit: Add WaifuX fix #1992
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: WaifuX<br/>Description: 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
-    </item>
-    <item>
-      <title>Desktop Control</title>
-      <link>https://desktopctl.com/</link>
-      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
-      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: Desktop Control
-Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。
-Website: https://desktopctl.com/
-Commit: Add Desktop Control listings (#1991)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Desktop Control<br/>Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
-    </item>
-    <item>
-      <title>TypeWhisper</title>
-      <link>https://www.typewhisper.com</link>
-      <guid isPermaLink="false">624a3717afd6e7bd9f87b285a90771434b39cfaf:TypeWhisper</guid>
-      <pubDate>Tue, 14 Apr 2026 19:39:42 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: TypeWhisper
-Description: 支持全局热键的本地 Whisper 语音转文字工具。
-Website: https://www.typewhisper.com
-Commit: Add TypeWhisper listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: TypeWhisper<br/>Description: 支持全局热键的本地 Whisper 语音转文字工具。<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: MacSift
-Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: MacSift<br/>Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
     </item>
   </channel>
 </rss>

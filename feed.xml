@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vesta</title>
+      <link>https://github.com/vestaterm/Vesta</link>
+      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
+      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Vesta
+Description: Native macOS terminal built on libghostty for running coding agents in parallel.
+Open Source: https://github.com/vestaterm/Vesta
+Commit: Add Vesta (#2243)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Vesta<br/>Description: Native macOS terminal built on libghostty for running coding agents in parallel.<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
+    </item>
+    <item>
+      <title>Edmund</title>
+      <link>https://github.com/I7T5/Edmund</link>
+      <guid isPermaLink="false">be3e1f3e0f4def7643a7154b70f1037a1e873a27:Edmund</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:47 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Edmund
+Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.
+Open Source: https://github.com/I7T5/Edmund
+Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27]]></content:encoded>
+    </item>
+    <item>
+      <title>Orca</title>
+      <link>https://onorca.dev</link>
+      <guid isPermaLink="false">1f609c89b956fd69d55b722a81f14fa183c05130:Orca</guid>
+      <pubDate>Mon, 29 Jun 2026 02:32:36 GMT</pubDate>
+      <category>Developer Tools / IDEs</category>
+      <description>Category: Developer Tools / IDEs
+App: Orca
+Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.
+Website: https://onorca.dev
+Commit: Add Orca (#2235)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130</description>
+      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Orca<br/>Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.<br/>Website: https://onorca.dev<br/>Commit: Add Orca (#2235)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130]]></content:encoded>
+    </item>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: VoxFlow
+Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxFlow<br/>Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
+    <item>
+      <title>Pesty</title>
+      <link>https://github.com/momenbasel/pesty</link>
+      <guid isPermaLink="false">9428ae79120a7460996fdfbcc8913a3839a8d1ad:Pesty</guid>
+      <pubDate>Fri, 26 Jun 2026 02:20:31 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Pesty
+Description: Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.
+Open Source: https://github.com/momenbasel/pesty
+Commit: Add Pesty to Clipboard Tools (#2229)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Pesty<br/>Description: Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to Clipboard Tools (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad]]></content:encoded>
+    </item>
     <item>
       <title>Claude Usage</title>
       <link>https://github.com/Bread-bang/claude-usage</link>
@@ -637,76 +707,6 @@ Open Source: https://github.com/yaroshevych/desktopctl
 Commit: Add Desktop Control to the list of AI tools (#1991)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Desktop Control<br/>Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.<br/>Open Source: https://github.com/yaroshevych/desktopctl<br/>Commit: Add Desktop Control to the list of AI tools (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">3329a74f6f18036fa2295aa71cfb40620afabda7:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:00:25 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MacSift
-Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift to Cleanup and Uninstall (#1987)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacSift<br/>Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift to Cleanup and Uninstall (#1987)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7]]></content:encoded>
-    </item>
-    <item>
-      <title>GhostVM</title>
-      <link>https://github.com/groundwater/GhostVM</link>
-      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
-      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
-      <category>Developer Tools / Virtualization</category>
-      <description>Category: Developer Tools / Virtualization
-App: GhostVM
-Description: Virtualization tool for creating and managing isolated macOS virtual machine workspaces.
-Open Source: https://github.com/groundwater/GhostVM
-Commit: Add GhostVM
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: GhostVM<br/>Description: Virtualization tool for creating and managing isolated macOS virtual machine workspaces.<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
-    </item>
-    <item>
-      <title>SwiftMTP</title>
-      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
-      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
-      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: SwiftMTP
-Description: Open-source MTP device manager for browsing and transferring files between Mac and Android devices.
-Open Source: https://github.com/Neighbor-Z/SwiftMTP
-Commit: Add SwiftMTP
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SwiftMTP<br/>Description: Open-source MTP device manager for browsing and transferring files between Mac and Android devices.<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
-    </item>
-    <item>
-      <title>ChargeMonitor</title>
-      <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
-      <guid isPermaLink="false">af63da0ebd63ccc2275b2ac871c7b3896fe95bf5:ChargeMonitor</guid>
-      <pubDate>Mon, 13 Apr 2026 16:15:29 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: ChargeMonitor
-Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.
-Open Source: https://github.com/CrashSystemZ/ChargeMonitor
-Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: ChargeMonitor<br/>Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
-    </item>
-    <item>
-      <title>ScreenKite</title>
-      <link>https://www.screenkite.com/</link>
-      <guid isPermaLink="false">81a0cbb3a270d994828aeae2f98e67f2f95a2026:ScreenKite</guid>
-      <pubDate>Mon, 13 Apr 2026 00:30:34 GMT</pubDate>
-      <category>Design and Product / Screen Recording</category>
-      <description>Category: Design and Product / Screen Recording
-App: ScreenKite
-Description: Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter.
-Website: https://www.screenkite.com/
-Commit: Add ScreenKite (#1984)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: ScreenKite<br/>Description: Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter.<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
     </item>
   </channel>
 </rss>
