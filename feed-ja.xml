@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:48:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tomatino</title>
+      <link>https://tomatino.app</link>
+      <guid isPermaLink="false">214d12a83606e7a444e13d8e09d109b2320d98a7:Tomatino</guid>
+      <pubDate>Wed, 02 Sep 2026 01:48:36 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Tomatino
+Description: メニューバーのポモドーロタイマー。セッションを開始すると集中モードをオンにして音楽を再生し、休憩で両方をオフに戻す。
+Website: https://tomatino.app
+Commit: Add Tomatino to Menu Bar Tools (#2684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Tomatino<br/>Description: メニューバーのポモドーロタイマー。セッションを開始すると集中モードをオンにして音楽を再生し、休憩で両方をオフに戻す。<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Novel Writer</title>
+      <link>https://github.com/EthanYoQ/AI-Novel-Writer</link>
+      <guid isPermaLink="false">9f2056f433190534764753ee32960ee40c922abc:AI Novel Writer</guid>
+      <pubDate>Wed, 02 Sep 2026 01:41:04 GMT</pubDate>
+      <category>読み書きツール / ライティング</category>
+      <description>Category: 読み書きツール / ライティング
+App: AI Novel Writer
+Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。
+Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
+Commit: Add AI Novel Writer to Writing (#2732)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: AI Novel Writer<br/>Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
+    </item>
+    <item>
+      <title>Blink</title>
+      <link>https://github.com/megootronic/Blink</link>
+      <guid isPermaLink="false">ea52d9e1cbdd4fdb8ebb215207d869338b28fea1:Blink</guid>
+      <pubDate>Tue, 01 Sep 2026 01:58:20 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Blink
+Description: メニューバーで実行中の開発サーバーと iOS シミュレータを見守る小さなロボット。ターミナルに戻らずにサーバーを再起動できる。
+Open Source: https://github.com/megootronic/Blink
+Commit: Add Blink to Menu Bar Tools (#2726)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Blink<br/>Description: メニューバーで実行中の開発サーバーと iOS シミュレータを見守る小さなロボット。ターミナルに戻らずにサーバーを再起動できる。<br/>Open Source: https://github.com/megootronic/Blink<br/>Commit: Add Blink to Menu Bar Tools (#2726)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1]]></content:encoded>
+    </item>
+    <item>
+      <title>Pixpresso</title>
+      <link>https://getapps.cafe/app/pixpresso</link>
+      <guid isPermaLink="false">e91a6a27466c30a33d7fa7624c74f86c4115ffa4:Pixpresso</guid>
+      <pubDate>Tue, 01 Sep 2026 01:50:53 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: Pixpresso
+Description: 切り抜き、リサイズ、注釈、PNG・JPG・WebP・HEIC変換に対応した画像ビューアー兼エディター。
+Website: https://getapps.cafe/app/pixpresso
+Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Pixpresso<br/>Description: 切り抜き、リサイズ、注釈、PNG・JPG・WebP・HEIC変換に対応した画像ビューアー兼エディター。<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
+    </item>
+    <item>
+      <title>ChessCafe</title>
+      <link>https://getapps.cafe/app/chesscafe</link>
+      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
+      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: ChessCafe
+Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。
+Website: https://getapps.cafe/app/chesscafe
+Commit: Add ChessCafe to Gaming Software (#2700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: ChessCafe<br/>Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
+    </item>
     <item>
       <title>LocalScribe</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -637,76 +707,6 @@ Website: https://agentteams.live/
 Commit: Add Agent Teams AI (#2322)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Agent Teams AI<br/>Description: チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
-    </item>
-    <item>
-      <title>MacTools</title>
-      <link>https://github.com/ggbond268/MacTools</link>
-      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
-      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: MacTools
-Description: ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。
-Open Source: https://github.com/ggbond268/MacTools
-Commit: Add MacTools to menu bar tools (#2313)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: MacTools<br/>Description: ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDisplay</title>
-      <link>https://opendisplay.app</link>
-      <guid isPermaLink="false">3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d:OpenDisplay</guid>
-      <pubDate>Tue, 14 Jul 2026 02:25:55 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: OpenDisplay
-Description: 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。
-Website: https://opendisplay.app
-Commit: Add OpenDisplay to General Tools (#2308)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: OpenDisplay<br/>Description: 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
-    </item>
-    <item>
-      <title>Tactile</title>
-      <link>https://tactile.masn.studio/</link>
-      <guid isPermaLink="false">bab25d5933f69e38a23a77b618cc66a24dbeefd6:Tactile</guid>
-      <pubDate>Mon, 13 Jul 2026 04:54:25 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Tactile
-Description: クリック可能な要素にカーソルを合わせるとトラックパッドに軽い触覚フィードバックを返し、視覚的な補助表示も可能。
-Website: https://tactile.masn.studio/
-Commit: Add Tactile to the zh/ja/ko list. #2298
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Tactile<br/>Description: クリック可能な要素にカーソルを合わせるとトラックパッドに軽い触覚フィードバックを返し、視覚的な補助表示も可能。<br/>Website: https://tactile.masn.studio/<br/>Commit: Add Tactile to the zh/ja/ko list. #2298<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6]]></content:encoded>
-    </item>
-    <item>
-      <title>Presspeech</title>
-      <link>https://github.com/rcourtman/presspeech</link>
-      <guid isPermaLink="false">1a8e1aa613e808a6ac97d1aa478d57a698af7d2a:Presspeech</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:08 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Presspeech
-Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。
-Open Source: https://github.com/rcourtman/presspeech
-Commit: Update Presspeech listing (#2290)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Presspeech<br/>Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Knopo</title>
-      <link>https://github.com/alkalim/Knopo</link>
-      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
-      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: Knopo
-Description: ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。
-Open Source: https://github.com/alkalim/Knopo
-Commit: Add Knopo (#2291)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Knopo<br/>Description: ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
     </item>
   </channel>
 </rss>
