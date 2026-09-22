@@ -5,9 +5,135 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 02:48:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ExcalidrawZ</title>
+      <link>https://excalidrawz.chocoford.com/</link>
+      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
+      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
+      <category>デザインとプロダクト / プロトタイピングとマインドマッピングツール</category>
+      <description>Category: デザインとプロダクト / プロトタイピングとマインドマッピングツール
+App: ExcalidrawZ
+Description: ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。
+Website: https://excalidrawz.chocoford.com/
+Commit: Add ExcalidrawZ (#2928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / プロトタイピングとマインドマッピングツール<br/>App: ExcalidrawZ<br/>Description: ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
+    </item>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>開発ツール / バージョン管理</category>
+      <description>Category: 開発ツール / バージョン管理
+App: teebe
+Description: Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: teebe<br/>Description: Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
+    <item>
+      <title>vChewing 唯音</title>
+      <link>https://github.com/vChewing/vChewing-macOS</link>
+      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
+      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
+      <category>入力方法</category>
+      <description>Category: 入力方法
+App: vChewing 唯音
+Description: 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。
+Open Source: https://github.com/vChewing/vChewing-macOS
+Commit: Add vChewing 唯音
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
+      <content:encoded><![CDATA[Category: 入力方法<br/>App: vChewing 唯音<br/>Description: 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
+    </item>
+    <item>
+      <title>HopToDesk</title>
+      <link>https://www.hoptodesk.com/</link>
+      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
+      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
+      <category>リモートログインソフトウェア</category>
+      <description>Category: リモートログインソフトウェア
+App: HopToDesk
+Description: エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。
+Website: https://www.hoptodesk.com/
+Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
+      <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: HopToDesk<br/>Description: エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
+    </item>
+    <item>
+      <title>AirPoise</title>
+      <link>https://airpoise.vercel.app/</link>
+      <guid isPermaLink="false">b01f3f7561f44334be770f361479e043e2ea220b:AirPoise</guid>
+      <pubDate>Thu, 17 Sep 2026 02:46:05 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: AirPoise
+Description: AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。
+Website: https://airpoise.vercel.app/
+Commit: Add AirPoise to the app directory (#2891)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AirPoise<br/>Description: AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
+    </item>
+    <item>
+      <title>Calyx</title>
+      <link>https://github.com/yuuichieguchi/Calyx</link>
+      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
+      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Calyx
+Description: コーディングエージェントを並列に実行・管理するためのネイティブ macOS ターミナル。
+Open Source: https://github.com/yuuichieguchi/Calyx
+Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Calyx<br/>Description: コーディングエージェントを並列に実行・管理するためのネイティブ macOS ターミナル。<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
+    </item>
+    <item>
+      <title>MangoDisk</title>
+      <link>https://mangodisk.app/ja</link>
+      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
+      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: MangoDisk
+Description: ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。
+Website: https://mangodisk.app/ja
+Commit: Add mangodisk (#2756)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: MangoDisk<br/>Description: ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。<br/>Website: https://mangodisk.app/ja<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepDeck</title>
+      <link>https://deepdeck.getmegaportal.com/</link>
+      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
+      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: DeepDeck
+Description: DeepSeek Harnessを基盤とし、Webサイト上のタスク向けにWebMCPツールを作成・再利用できるデスクトップAIワークスペース。
+Website: https://deepdeck.getmegaportal.com/
+Commit: Add DeepDeck to AI tools (#2869)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: DeepDeck<br/>Description: DeepSeek Harnessを基盤とし、Webサイト上のタスク向けにWebMCPツールを作成・再利用できるデスクトップAIワークスペース。<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
+    </item>
+    <item>
+      <title>Qingjian 青简</title>
+      <link>https://qingjian.app/</link>
+      <guid isPermaLink="false">35a3af262ea140508a74118c25266475b0926638:Qingjian 青简</guid>
+      <pubDate>Mon, 14 Sep 2026 05:46:29 GMT</pubDate>
+      <category>入力方法</category>
+      <description>Category: 入力方法
+App: Qingjian 青简
+Description: Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。
+Website: https://qingjian.app/
+Commit: Add 青简 Qingjian
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638</description>
+      <content:encoded><![CDATA[Category: 入力方法<br/>App: Qingjian 青简<br/>Description: Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。<br/>Website: https://qingjian.app/<br/>Commit: Add 青简 Qingjian<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638]]></content:encoded>
+    </item>
     <item>
       <title>Wayfinder</title>
       <link>https://wayfinder-ai.pages.dev/</link>
@@ -581,132 +707,6 @@ Website: https://openbitfun.com/
 Commit: Add BitFun to the zh/ja/ko list #2490
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: BitFun<br/>Description: タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to the zh/ja/ko list #2490<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082]]></content:encoded>
-    </item>
-    <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: GraphCode
-Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: GraphCode<br/>Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
-    </item>
-    <item>
-      <title>Capd</title>
-      <link>https://capd.jxd.dev</link>
-      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
-      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
-      <category>読み書きツール / その他</category>
-      <description>Category: 読み書きツール / その他
-App: Capd
-Description: リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。
-Website: https://capd.jxd.dev
-Commit: Add Capd (#2484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: Capd<br/>Description: リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
-    </item>
-    <item>
-      <title>Adrafinil</title>
-      <link>https://kagerou.glass/adrafinil/</link>
-      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
-      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: Adrafinil
-Description: AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。
-Website: https://kagerou.glass/adrafinil/
-Commit: Add Adrafinil to System Related Tools (#2466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Adrafinil<br/>Description: AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
-    </item>
-    <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Phosphene
-Description: 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Phosphene<br/>Description: 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
-    </item>
-    <item>
-      <title>Rilmazafone</title>
-      <link>https://kagerou.glass/rilmazafone/</link>
-      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
-      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
-      <category>開発ツール / ハイブリッドアプリケーション用フレームワーク</category>
-      <description>Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク
-App: Rilmazafone
-Description: WYSIWYG キャンバスで DMG インストーラーをデザインし、描いたとおりにビルド。スクリプト不要です。
-Website: https://kagerou.glass/rilmazafone/
-Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
-      <content:encoded><![CDATA[Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク<br/>App: Rilmazafone<br/>Description: WYSIWYG キャンバスで DMG インストーラーをデザインし、描いたとおりにビルド。スクリプト不要です。<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
-    </item>
-    <item>
-      <title>NoteGen</title>
-      <link>https://notegen.top/</link>
-      <guid isPermaLink="false">afa2b3e270c52f3eb659feedeb9b7a3951dbb45d:NoteGen</guid>
-      <pubDate>Sat, 01 Aug 2026 00:14:34 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: NoteGen
-Description: 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。
-Website: https://notegen.top/
-Commit: Add NoteGen (#2462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: NoteGen<br/>Description: 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
-    </item>
-    <item>
-      <title>Fletch</title>
-      <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
-      <guid isPermaLink="false">05ec40b941f9f3730123cc23c5dde4bff88da234:Fletch</guid>
-      <pubDate>Wed, 29 Jul 2026 04:24:06 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Fletch
-Description: AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。
-Website: https://fletch.sh/?utm_source=dir-awesome-mac
-Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Fletch<br/>Description: AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。<br/>Website: https://fletch.sh/?utm_source=dir-awesome-mac<br/>Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234]]></content:encoded>
-    </item>
-    <item>
-      <title>AQBot</title>
-      <link>https://app.aqbot.top/</link>
-      <guid isPermaLink="false">a2d6d5a179d094b4fa25f23801f1ed3818773d66:AQBot</guid>
-      <pubDate>Tue, 28 Jul 2026 07:55:55 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: AQBot
-Description: 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。
-Website: https://app.aqbot.top/
-Commit: Add AQBot to AI Tools (#2423)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: AQBot<br/>Description: 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
-    </item>
-    <item>
-      <title>Crisp</title>
-      <link>https://didriksg.github.io/Crisp/</link>
-      <guid isPermaLink="false">9963b8e2708ce5c66c1423033ee8d990c6441681:Crisp</guid>
-      <pubDate>Tue, 28 Jul 2026 06:54:55 GMT</pubDate>
-      <category>ユーティリティ / 生活の質の向上</category>
-      <description>Category: ユーティリティ / 生活の質の向上
-App: Crisp
-Description: メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。
-Website: https://didriksg.github.io/Crisp/
-Commit: Add Crisp to the zh/ko/ja list. #2415
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Crisp<br/>Description: メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
     </item>
   </channel>
 </rss>

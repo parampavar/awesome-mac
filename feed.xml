@@ -5,9 +5,135 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 02:48:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ExcalidrawZ</title>
+      <link>https://excalidrawz.chocoford.com/</link>
+      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
+      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
+      <category>Design and Product / Prototyping and Mind-Mapping Tools</category>
+      <description>Category: Design and Product / Prototyping and Mind-Mapping Tools
+App: ExcalidrawZ
+Description: Open-source native Excalidraw client with local file management and iCloud sync.
+Website: https://excalidrawz.chocoford.com/
+Commit: Add ExcalidrawZ (#2928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
+      <content:encoded><![CDATA[Category: Design and Product / Prototyping and Mind-Mapping Tools<br/>App: ExcalidrawZ<br/>Description: Open-source native Excalidraw client with local file management and iCloud sync.<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
+    </item>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>Developer Tools / Version Control</category>
+      <description>Category: Developer Tools / Version Control
+App: teebe
+Description: Native manager for Git worktrees, with live file change badges and inline diffs.
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: teebe<br/>Description: Native manager for Git worktrees, with live file change badges and inline diffs.<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
+    <item>
+      <title>vChewing 唯音</title>
+      <link>https://github.com/vChewing/vChewing-macOS</link>
+      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
+      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: vChewing 唯音
+Description: Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.
+Open Source: https://github.com/vChewing/vChewing-macOS
+Commit: Add vChewing 唯音
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: vChewing 唯音<br/>Description: Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
+    </item>
+    <item>
+      <title>HopToDesk</title>
+      <link>https://www.hoptodesk.com/</link>
+      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
+      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
+      <category>Remote Login Software</category>
+      <description>Category: Remote Login Software
+App: HopToDesk
+Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.
+Website: https://www.hoptodesk.com/
+Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
+      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: HopToDesk<br/>Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
+    </item>
+    <item>
+      <title>AirPoise</title>
+      <link>https://airpoise.vercel.app/</link>
+      <guid isPermaLink="false">b01f3f7561f44334be770f361479e043e2ea220b:AirPoise</guid>
+      <pubDate>Thu, 17 Sep 2026 02:46:05 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: AirPoise
+Description: Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.
+Website: https://airpoise.vercel.app/
+Commit: Add AirPoise to the app directory (#2891)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AirPoise<br/>Description: Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
+    </item>
+    <item>
+      <title>Calyx</title>
+      <link>https://github.com/yuuichieguchi/Calyx</link>
+      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
+      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Calyx
+Description: Native macOS terminal for running and supervising coding agents in parallel.
+Open Source: https://github.com/yuuichieguchi/Calyx
+Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Calyx<br/>Description: Native macOS terminal for running and supervising coding agents in parallel.<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
+    </item>
+    <item>
+      <title>MangoDisk</title>
+      <link>https://mangodisk.app/</link>
+      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
+      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: MangoDisk
+Description: Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion.
+Website: https://mangodisk.app/
+Commit: Add mangodisk (#2756)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MangoDisk<br/>Description: Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion.<br/>Website: https://mangodisk.app/<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepDeck</title>
+      <link>https://deepdeck.getmegaportal.com/</link>
+      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
+      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: DeepDeck
+Description: Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.
+Website: https://deepdeck.getmegaportal.com/
+Commit: Add DeepDeck to AI tools (#2869)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: DeepDeck<br/>Description: Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
+    </item>
+    <item>
+      <title>Qingjian 青简</title>
+      <link>https://qingjian.app/</link>
+      <guid isPermaLink="false">35a3af262ea140508a74118c25266475b0926638:Qingjian 青简</guid>
+      <pubDate>Mon, 14 Sep 2026 05:46:29 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: Qingjian 青简
+Description: Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words.
+Website: https://qingjian.app/
+Commit: Add 青简 Qingjian
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: Qingjian 青简<br/>Description: Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words.<br/>Website: https://qingjian.app/<br/>Commit: Add 青简 Qingjian<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638]]></content:encoded>
+    </item>
     <item>
       <title>Wayfinder</title>
       <link>https://wayfinder-ai.pages.dev/</link>
@@ -581,132 +707,6 @@ Website: https://leafyapp.uk/
 Commit: Add Leafy (vocabulary builder) to Education (#2251)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757</description>
       <content:encoded><![CDATA[Category: Education<br/>App: Leafy<br/>Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.<br/>Website: https://leafyapp.uk/<br/>Commit: Add Leafy (vocabulary builder) to Education (#2251)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757]]></content:encoded>
-    </item>
-    <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Plonk
-Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Plonk<br/>Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
-    </item>
-    <item>
-      <title>Imark</title>
-      <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Imark
-Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.
-Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
-    </item>
-    <item>
-      <title>ItsPaint</title>
-      <link>https://itspaintmac.com/</link>
-      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
-      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
-      <category>Design and Product / Design Tools</category>
-      <description>Category: Design and Product / Design Tools
-App: ItsPaint
-Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.
-Website: https://itspaintmac.com/
-Commit: Add ItsPaint to Design and Product (#2457)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
-      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
-    </item>
-    <item>
-      <title>MacOSCleaner</title>
-      <link>https://github.com/AlexTkDev/MacOSCleaner</link>
-      <guid isPermaLink="false">647a310507047b4068be72c24caa05e10355a143:MacOSCleaner</guid>
-      <pubDate>Thu, 06 Aug 2026 14:20:34 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MacOSCleaner
-Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.
-Open Source: https://github.com/AlexTkDev/MacOSCleaner
-Commit: Add MacOSCleaner (#2501)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacOSCleaner<br/>Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.<br/>Open Source: https://github.com/AlexTkDev/MacOSCleaner<br/>Commit: Add MacOSCleaner (#2501)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143]]></content:encoded>
-    </item>
-    <item>
-      <title>BitFun</title>
-      <link>https://openbitfun.com/</link>
-      <guid isPermaLink="false">c62d841a87d9789b243b09417f7350f3031d680e:BitFun</guid>
-      <pubDate>Wed, 05 Aug 2026 14:29:42 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: BitFun
-Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.
-Website: https://openbitfun.com/
-Commit: Add BitFun to AI Tools (#2490)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: BitFun<br/>Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to AI Tools (#2490)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e]]></content:encoded>
-    </item>
-    <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: GraphCode
-Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: GraphCode<br/>Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
-    </item>
-    <item>
-      <title>Capd</title>
-      <link>https://capd.jxd.dev</link>
-      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
-      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: Capd
-Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.
-Website: https://capd.jxd.dev
-Commit: Add Capd (#2484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Capd<br/>Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
-    </item>
-    <item>
-      <title>Adrafinil</title>
-      <link>https://kagerou.glass/adrafinil/</link>
-      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
-      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Adrafinil
-Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.
-Website: https://kagerou.glass/adrafinil/
-Commit: Add Adrafinil to System Related Tools (#2466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Adrafinil<br/>Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
-    </item>
-    <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Phosphene
-Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Phosphene<br/>Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
     </item>
   </channel>
 </rss>
